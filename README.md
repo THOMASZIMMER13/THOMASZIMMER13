@@ -59,15 +59,6 @@ Passionné par l'automatisation des infrastructures et le déploiement continu, 
 
 ---
 
-## Statistiques GitHub
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=THOMASZIMMER13&show_icons=true&theme=default&hide_border=true&locale=fr" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THOMASZIMMER13&layout=compact&theme=default&hide_border=true&locale=fr" alt="Top Languages" height="170" />
-</p>
-
----
-
 ## Contact
 
 - **LinkedIn** : [linkedin.com/in/thomas-zimmer-devops](https://www.linkedin.com/in/thomas-zimmer-devops)
