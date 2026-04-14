@@ -1,6 +1,6 @@
 # Thomas Zimmer
 
-**Ingenieur DevOps** | Automatisation, Infrastructure as Code, Cloud
+**Ingénieur DevOps** | Automatisation, Infrastructure as Code, Cloud
 
 ---
 
@@ -24,7 +24,7 @@ Passionné par l'automatisation des infrastructures et le déploiement continu, 
 **Cloud**\
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
-**Systemes**\
+**Systèmes**\
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
@@ -49,13 +49,13 @@ Passionné par l'automatisation des infrastructures et le déploiement continu, 
 
 ## Projets
 
-| Depot | Description |
+| Dépôt | Description |
 |-------|-------------|
 | [ansible-windows-automation](https://github.com/THOMASZIMMER13/ansible-windows-automation) | Automatisation de la configuration et du durcissement de serveurs Windows via Ansible |
-| [terraform-azure-infrastructure](https://github.com/THOMASZIMMER13/terraform-azure-infrastructure) | Provisionnement d'infrastructures Azure avec Terraform (reseau, VM, stockage) |
-| [docker-compose-app-stack](https://github.com/THOMASZIMMER13/docker-compose-app-stack) | Stack applicative multi-conteneurs orchestree avec Docker Compose |
-| [ansible-linux-lemp](https://github.com/THOMASZIMMER13/ansible-linux-lemp) | Deploiement automatise d'une stack LEMP sur Linux (Nginx, MySQL, PHP) |
-| [github-actions-cicd-pipelines](https://github.com/THOMASZIMMER13/github-actions-cicd-pipelines) | Pipelines CI/CD reutilisables avec GitHub Actions |
+| [terraform-azure-infrastructure](https://github.com/THOMASZIMMER13/terraform-azure-infrastructure) | Provisionnement d'infrastructures Azure avec Terraform (réseau, VM, stockage) |
+| [docker-compose-app-stack](https://github.com/THOMASZIMMER13/docker-compose-app-stack) | Stack applicative multi-conteneurs orchestrée avec Docker Compose |
+| [ansible-linux-lemp](https://github.com/THOMASZIMMER13/ansible-linux-lemp) | Déploiement automatisé d'une stack LEMP sur Linux (Nginx, MySQL, PHP) |
+| [github-actions-cicd-pipelines](https://github.com/THOMASZIMMER13/github-actions-cicd-pipelines) | Pipelines CI/CD réutilisables avec GitHub Actions |
 
 ---
 
@@ -70,5 +70,5 @@ Passionné par l'automatisation des infrastructures et le déploiement continu, 
 
 ## Contact
 
-- **LinkedIn** : [linkedin.com/in/thomas-zimmer](https://linkedin.com/in/thomas-zimmer)
-- **Email** : thomas.zimmer@example.com
+- **LinkedIn** : [linkedin.com/in/thomas-zimmer-devops](https://www.linkedin.com/in/thomas-zimmer-devops)
+- **Email** : zimmerthomas0@gmail.com
