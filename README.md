@@ -4,7 +4,7 @@
 
 ---
 
-Passionné par l'automatisation des infrastructures et le déploiement continu, je conçois et maintiens des environnements fiables, reproductibles et scalables. Mon objectif : réduire le travail manuel, renforcer la qualité et accélérer les livraisons.
+Passionné par l'automatisation des infrastructures et le déploiement continu, je conçois et maintiens des environnements fiables, reproductibles et scalables. Mon objectif : automatiser les tâches répétitives, renforcer la fiabilité des environnements et accélérer les livraisons.
 
 ---
 
